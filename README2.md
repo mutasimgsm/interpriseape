@@ -17,7 +17,7 @@ Powerful software
 >  using comment `rails scaffold g module_name columns`.
 
 ## then
-> migrate `rails db:migrate`.
+> migrate `puts 'see' rails db:migrate`.
 
 >  git comment
 `echo "# interpriseape" >> *README.md*

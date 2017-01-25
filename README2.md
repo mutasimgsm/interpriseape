@@ -24,5 +24,8 @@ Powerful software
 git init
 git add README.md
 git commit -m "first commit"
-git remote add origin Feel free to access [this link] (https://github.com/mutasimgsm/interpriseape.git)
+git remote add origin Feel free to access
+>
+[this link](https://github.com/mutasimgsm/interpriseape.git)
+>
 git push -u origin master`

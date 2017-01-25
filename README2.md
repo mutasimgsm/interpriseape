@@ -9,17 +9,17 @@ Powerful software
 ### First
 
 ### Third scaffoiding
-> # create rails module
-> # using commant `rails new name_of_modula`.
+>  create rails module
+>  using commant `rails new name_of_modula`.
 ### Second creal database
-> # using cmment `rake db:create`.
+>  using cmment `rake db:create`.
 
-> # using comment `rails scaffold g module_name columns`.
+>  using comment `rails scaffold g module_name columns`.
 
 ## then
 > migrate `rails db:migrate`.
 
-> # git comment
+>  git comment
 `echo "# interpriseape" >> *README.md*
 git init
 git add README.md
